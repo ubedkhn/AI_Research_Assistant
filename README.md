@@ -1,4 +1,4 @@
-# 🧠 Research Assistant With Memory
+# 🧠 Corpus Research Assistant With Memory
 **A Persistent, Multi-Source AI Knowledge Assistant**
 
 Drop URLs. Ask questions across all of them as if they were one document.
